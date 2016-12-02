@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_76205b4581ca3286e886bda178c3df5b4e238b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_5bd68ff2f0534d7334f617fa6024ec6f3c9a7a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b736a9f12c29b5cae650ccab81db1ee298702304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b72170d51da94f850d957236a6d74784259a52cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8073b599380f62b7e0e51370ccf243ff3f488c2b">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1938735683c220565f131f251a37cc3d090fbb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca4163de6a208a52e0925862eba8fb3a39987b04">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb71d267f5e58d3522f8c8da5fe33d921428e520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_20a3b69b416d47acb171e06c03f0d136d74a7527/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_21d22a03e8327b4dbb9381a8a8161a745d97f2f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ffb6c714a890ad1e82e8d083f3e7878fecf78716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_45fd062f11fd736e5a5b7a6e462106b7a7e84d7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_066c29b0c6e064371f5bc32753ddc4e6ae6cddc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_14dcb9d376738de7bb74bea9922b7ab5ac161c28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_55b301d63b50dbb2bfddb38115a334ce8ea0955c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_dc4d75a6141895e57f33270647e45a6ece010c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_7aa20b01d298f0a9e14837b00ec470912e9eca91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_7340891065b49a3c17c6cf767e3ae2dc6f86e98e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a749e7ea4b714574a12d290f1bc553ffe89256da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_617676639fc898b43ee63e3ff3e740fc3d17d3be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bd62a00ebf6bd566511b5d040df9bfb784920a62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8a025440294a4a2c4e1e7f251b7b4e24df268d74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_3741f82e769ea4edbe080b1e4ba051c6ac2638c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1d8b94c8ad0b65c43b22cf5bf17b53735b6fd421/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_112e16aa6c6665aa240f5f2731450244a248d294/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_89509f0abe4dd85862c8ffcfa41d5f0460559c5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e0b21507e7d630b84b1f2875ba1e856f08e4028a">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8dcf7a6f999fb3cd42d3b8d966172a8693b1c3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_81e59edac4833d49d1c86aca02b4a19fb23ee6ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eafd4ab709dbd298056e5a6887b55330e9c94d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_19101487f543a77b3752d72b1b76955dafb92e6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d63644ccc6c5935b039ebefe855879745c62f230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d1f76e4aa5af14e5ed717699f1a4642e149ea9fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_09496f5dc0ff82e7ddc7062653fb5b32c4505372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fc6208a7f5cf9a99a9f4559050156ec245b102f">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OrseryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_989bc933663ae1eadd733f58641c409d8299d71d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jeanduong/AndroidStudioProjects/OCRApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2c4e597e5f3f65c122a79e702c912ee6bbb6d498/classes.dex" />
+    </item>
+
+</items>
