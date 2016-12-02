@@ -37,6 +37,8 @@ public class MainActivity extends Activity {
         ImageView vw = (ImageView) findViewById(R.id.display_view_name);
 
         img = BitmapFactory.decodeResource(getResources(), R.drawable.dooblink_crop);
+        //img = BitmapFactory.decodeResource(getResources(), R.drawable.pulsalys_crop);
+        //img = BitmapFactory.decodeResource(getResources(), R.drawable.lettre_dubois);
 
         vw.setImageBitmap(img);
 
