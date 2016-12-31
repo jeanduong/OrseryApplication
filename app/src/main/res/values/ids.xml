@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="display_view_name" type="id" />
+    <item name="title_gray" type="id">title_OCR_gray</item>
+    <item name="title_binary" type="id">title_OCR_binary</item>
+    <item name="content_gray" type="id">content_OCR_gray</item>
+    <item name="content_binary" type="id">content_OCR_binary</item>
 </resources>

@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">OCRApplication</string>
     <string name="display_view_label" type="id">Display area</string>
-    <string name="button_label">Make gray</string>
+    <string name="button_label">Read</string>
+    <string name="title_gray_label">OCR output (grayscaled image)</string>
+    <string name="title_binary_label">OCR output (binarized image)</string>
 </resources>
